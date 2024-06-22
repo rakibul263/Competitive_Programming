@@ -36,3 +36,17 @@ int main()
 
     return 0;
 }
+
+/* Input : 24
+
+Output : 1
+2
+3
+4
+6
+9
+12
+18
+36
+Count : 9
+Sum : 91 */
