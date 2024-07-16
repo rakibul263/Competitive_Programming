@@ -51,9 +51,6 @@ Each folder contains problems and their solutions written in C++. You can naviga
 
 We welcome contributions! Feel free to add your solutions or improve the existing ones. Please ensure you follow the folder structure and naming conventions.
 
-## License 📄
-
-This repository is open-source and available under the MIT License.
 
 ## **Contact 📬**
 
